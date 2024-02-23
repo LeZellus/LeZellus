@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://monifus.fr/uploads/hello_white.png">
   <source media="(prefers-color-scheme: light)" srcset="https://monifus.fr/uploads/hello_white.png">
